@@ -3,7 +3,7 @@
 This repository contains code for Todo app with react-redux.
 
 View Demo:
-https://react-redux-todo-app-lac.vercel.app/
+(https://todo-list-assignment-targetgrid-anant.vercel.app/)
 
 
 ## Available Scripts
